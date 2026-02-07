@@ -74,7 +74,7 @@ reloj_digital_proyecto/
 ## Uso
 Esta aplicación permite:
 - Modo Reloj: Probar todas las funcionalidades del reloj (cambiar modos, configurar alarmas, temporizadores)
-- **Modo Fútbol: Gestionar torneos con cronometraje automático y descanso
+- Modo Fútbol: Gestionar torneos con cronometraje automático y descanso
 - Cambiar idioma (inglés/español)
 
 ### Funcionalidad de Descanso en Torneos
